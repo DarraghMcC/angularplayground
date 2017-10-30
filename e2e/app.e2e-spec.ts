@@ -1,10 +1,10 @@
-import { AngularRedditPage } from './app.po';
+import { AngularplaygroundPage } from './app.po';
 
-describe('angular-reddit App', () => {
-  let page: AngularRedditPage;
+describe('angular-playground App', () => {
+  let page: AngularplaygroundPage;
 
   beforeEach(() => {
-    page = new AngularRedditPage();
+    page = new AngularplaygroundPage();
   });
 
   it('should display message saying app works', () => {

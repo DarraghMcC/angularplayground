@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class AngularRedditPage {
+export class AngularplaygroundPage {
   navigateTo() {
     return browser.get('/');
   }
